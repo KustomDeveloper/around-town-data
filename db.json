@@ -1,0 +1,436 @@
+{
+    "events": [
+      {
+        "id": 1,
+        "title": "Beach Cleanup",
+        "date": "Aug 28 2018",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "Let's clean up this beach.",
+        "organizer": "Bob Jones",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Adam Jones"
+          },
+          {
+            "id": "def456",
+            "name": "James Jones"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Park Cleanup",
+        "date": "Nov 12 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "We're going to clean up this park.",
+        "organizer": "Bob Jones",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Pet Adoption Day",
+        "date": "Dec 2 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Help animals find new homes.",
+        "organizer": "Mike Roberts",
+        "category": "animal welfare",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Tommy Jones"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Disco Party",
+        "date": "Aug 28 2018",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "It's party time at the club!.",
+        "organizer": "Bob Jones",
+        "category": "Party",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Bob Jones"
+          },
+          {
+            "id": "def456",
+            "name": "Daniel Stevens"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Web Design Meetup",
+        "date": "Nov 12 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "@019 web design discussion meetup",
+        "organizer": "Bob Jones",
+        "category": "meetup",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Rails Meetup",
+        "date": "Dec 2 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Help animals find new homes.",
+        "organizer": "Daniel Stevens",
+        "category": "Meetup",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Bob Jones"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Yoga Class",
+        "date": "Aug 28 2018",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "Yoga classes for everyone.",
+        "organizer": "Bob Jones",
+        "category": "Fitness",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Bob Jones"
+          },
+          {
+            "id": "def456",
+            "name": "Daniel Stevens"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Breathing Meditation",
+        "date": "Nov 12 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Let's work on breathing exercises",
+        "organizer": "Bob Jones",
+        "category": "Fitness",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Dancing Class",
+        "date": "Dec 2 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Dancing class led by a great professional instructor",
+        "organizer": "Daniel Stevens",
+        "category": "Fitness",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Bob Jones"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "title": "Beach Cleanup",
+        "date": "Aug 28 2018",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "Let's clean up this beach.",
+        "organizer": "Bob Jones",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Adam Jones"
+          },
+          {
+            "id": "def456",
+            "name": "James Jones"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Park Cleanup",
+        "date": "Nov 12 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "We're going to clean up this park.",
+        "organizer": "Bob Jones",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Pet Adoption Day",
+        "date": "Dec 2 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Help animals find new homes.",
+        "organizer": "Mike Roberts",
+        "category": "animal welfare",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Tommy Jones"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Disco Party",
+        "date": "Aug 28 2018",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "Let's clean up this beach.",
+        "organizer": "Bob Jones",
+        "category": "Party",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Bob Jones"
+          },
+          {
+            "id": "def456",
+            "name": "Daniel Stevens"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Vue Users Group",
+        "date": "Nov 12 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "We're going to clean up this park.",
+        "organizer": "Bob Jones",
+        "category": "nature",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Orlando Dev Meetup",
+        "date": "Dec 2 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Help animals find new homes.",
+        "organizer": "Daniel Stevens",
+        "category": "animal welfare",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Bob Jones"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "title": "Yoga Class",
+        "date": "Aug 28 2018",
+        "time": "10:00",
+        "location": "Daytona Beach",
+        "description": "Let's clean up this beach.",
+        "organizer": "Bob Jones",
+        "category": "sustainability",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Bob Jones"
+          },
+          {
+            "id": "def456",
+            "name": "Daniel Stevens"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Breathing Meditation",
+        "date": "Nov 12 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Let's get together and work on breathing exercises",
+        "organizer": "Bob Jones",
+        "category": "nature",
+        "attendees": [
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Dancing Class",
+        "date": "Dec 2 2018",
+        "time": "12:00",
+        "location": "132 N Magnolia Street, Orlando, Florida",
+        "description": "Dancing class led by a great professional instructor",
+        "organizer": "Daniel Stevens",
+        "category": "animal welfare",
+        "attendees": [
+          {
+            "id": "abc123",
+            "name": "Bob Jones"
+          },
+          {
+            "id": "ghi789",
+            "name": "Margaret Stewart"
+          },
+          {
+            "id": "jkl101",
+            "name": "Rebecca Roberts"
+          }
+        ]
+      }
+    ]
+  }
